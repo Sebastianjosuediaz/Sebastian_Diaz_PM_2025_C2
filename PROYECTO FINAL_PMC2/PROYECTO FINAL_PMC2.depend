@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755863616 source:c:\users\sebas\desktop\proyecto final_pmc2\main.c
+	<stdio.h>
+	<string.h>
+
